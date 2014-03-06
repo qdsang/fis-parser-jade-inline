@@ -1,15 +1,16 @@
 {
-  "name": "fis-parser-jade",
-  "description": "A parser for fis to compile jade file.",
-  "version": "0.0.8",
+  "name": "fis-parser-jade-inline",
+  "description": "A parser for fis to compile inline jade file.",
+  "version": "0.0.1",
   "author": {
-    "name": "FIS Team",
-    "email": "fis@baidu.com"
+    "name": "qdsang",
+    "email": "qdsang@gmail.com"
   },
-  "homepage": "https://github.com/ssddi456/fis-parser-jade",
+  "homepage": "https://github.com/qdsang/fis-parser-jade-inline",
   "keywords": [
     "fis",
-    "jade"
+    "jade",
+    "inline"
   ],
   "license": "MIT",
   "main": "index.js",
@@ -18,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ssddi456/fis-parser-jade"
+    "url": "https://github.com/qdsang/fis-parser-jade-inline"
   },
   "dependencies": {
     "jade": ">=0.30.0"
