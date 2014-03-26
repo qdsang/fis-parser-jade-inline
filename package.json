@@ -1,7 +1,7 @@
 {
   "name": "fis-parser-jade-inline",
   "description": "A parser for fis to compile inline jade file.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "qdsang",
     "email": "qdsang@gmail.com"

@@ -28,6 +28,6 @@ module.exports = function(content, file, conf){
     // 兼容旧版本 jade
     fn += 'if (typeof template == \'undefined\'){template = anonymous;} ';
     fn += 'return template(locals);'+ tmpl.toString();
-    fnstr = 'function(locals){' + fn + '};'
+    fnstr = 'function(locals){' + fn + '}'
     return fnstr;
 };
